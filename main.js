@@ -1,5 +1,5 @@
 'use strict';
-git a dhtml.dexind
+git add index.html
 
 {
   function createColumn(col) {
