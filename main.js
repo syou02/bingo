@@ -1,5 +1,5 @@
 'use strict';
-git add index.html
+
 
 {
   function createColumn(col) {
